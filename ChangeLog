@@ -1,5 +1,7 @@
 * 0.8 - unreleased
 - Add option -M/--meta to add or update document metadata during conversion
+- Add option -I/--input-filter-name to specify input format ()Martijn van de Streek)
+- Dropped support for OpenOffice 3.3 and 3.4.
 
 * 0.7 - released 2015-07-09
 - Ported to Python 3 (Riccardo Magliocchetti)
